@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+venv/
+env/
+.env
+
+# Model artifacts (too large for git)
+distilbert-reviews-genres/
+results/
+logs/
+
+# Data files
+*.pickle
+*.pkl
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Notebook checkpoints
+.ipynb_checkpoints/
