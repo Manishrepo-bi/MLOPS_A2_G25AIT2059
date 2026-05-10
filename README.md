@@ -102,7 +102,7 @@ python eval.py
 | F1 Score   | 0.XX  |
 | Eval Loss  | 0.XX  |
 
-> Fill in your actual scores after training completes.
+
 
 ---
 
